@@ -1,0 +1,1 @@
+"""PyBank Onion Architecture paketi."""
