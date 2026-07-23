@@ -19,16 +19,6 @@ Flet tabanlı modern masaüstü/web arayüzü ve SQLite kalıcılığı bulunan 
 - Karşılıklı transfer kayıtları, işlem açıklaması, tarihçe ve IBAN panoya kopyalama
 - SQLite foreign key, unique, check ve index kısıtları
 
-## İşCep'ten ilham alan ekranlar
-
-- Sol menüden çalışan **Genel Bakış**, **Para Transferi**, **Ödemeler**, **Kartlarım**, **İşlem Geçmişi** ve **Ayarlar** sayfaları
-- Koyu/açık tema seçimi
-- Banka kartı, kredi kartı ve sanal kart oluşturma; kartı dondurma/açma ve temassız kullanım tercihi
-- Kredi kartında kart limiti ve kullanılabilir limit görüntüleme
-- Kart kapatma talimatı; onaydan sonra kartı dondurur ve temassız kullanımı kapatır
-- Elektrik, su, doğal gaz, internet, cep telefonu ve kredi kartı borcu için fatura ödeme simülasyonu
-- İç hesaplara anlık transfer; geçerli harici TR IBAN'lara giden EFT/havale kaydı
-
 > Bu proje gerçek banka sistemlerine, ödeme ağlarına veya NFC/QR donanımına bağlı değildir. Kartlar ve ödemeler, yalnızca yerel SQLite veritabanında çalışan güvenli bir arayüz simülasyonudur.
 
 ## Katmanlar
